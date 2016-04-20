@@ -1,0 +1,17 @@
+@page {
+    margin: 25mm 25mm 25mm 25mm;
+}
+
+input,
+textarea {
+    border: 0;
+    padding: 0;
+}
+
+.wrapper {
+    margin: 0 auto;
+}
+
+.hide-printing {
+    display: none;
+}
