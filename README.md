@@ -3,6 +3,8 @@ Letter
 
 Courrier HTML & CSS éditable/imprimable.
 
+[Démo](http://dflorent.github.io/letter/)
+
 Pré-requis
 ----------
 
